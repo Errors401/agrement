@@ -98,8 +98,8 @@ python repository
 By creating an organization which all the team are  members within this organization.
 
 ### What is your Git flow?
-By working on a separate branches and merge it at the end of the day.
-
+By working on a separate branches and merge it to develop branch  before merge it with the main at the end of the project.
+Gitflow name : Feature branches
 ### Will you be using a PR review workflow? If so, consider:
 #### How many people must review a PR?
 All of the team
